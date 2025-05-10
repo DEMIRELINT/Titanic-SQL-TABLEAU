@@ -1,4 +1,4 @@
-# Proje Adı: Titanic SQL-TABLEAU 📊
+# Titanic SQL-TABLEAU 📊
 
 ## Projeyi Çalıştırmak İçin Gereksinimler:
 
